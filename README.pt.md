@@ -23,3 +23,11 @@ Para relembrar alguns conceitos, começarei revendo os fundamentos de lógica de
 
 **Meta prática da semana:**
 A meta será criar este repositório e, a cada dia de estudo, adicionar um novo arquivo `.py` com os exercícios realizados. Cada adição será feita através de um `commit` com uma mensagem clara, explicando o exercício, com o objetivo de construir um histórico limpo e organizado.
+
+**Desafios encontrados:**
+Até agora a maior dificuldade tem sido com o git, apesar de estar muito tempo sem ver algo de python consegui pegar a parte basica rapidamente revendo o curso "Python para Data Science: Primeiros passos" (https://cursos.alura.com.br/course/python-data-science-primeiros-passos)
+
+**Certificações adquiridas no mês:**
+
+* python para Data Science: Primeiros passos (10 h)
+* 
